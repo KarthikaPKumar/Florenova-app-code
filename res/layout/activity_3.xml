@@ -1,0 +1,30 @@
+
+ö
+9
+android*http://schemas.android.com/apk/res/android
+2
+app'http://schemas.android.com/apk/res-autoRelativeLayout"T
+*http://schemas.android.com/apk/res/android
+background#21B5C8"(Ô„2:PÈë†ù"a
+*http://schemas.android.com/apk/res/androidlayout_heightmatch_parent"(õ„2:0ÿÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ*
+
+    *¾
+µTextView"Z
+*http://schemas.android.com/apk/res/androidlayout_centerHorizontaltrue"
+(ƒ„2:@"X
+*http://schemas.android.com/apk/res/androidlayout_centerVerticaltrue"
+(‘ƒ„2:@"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"
+(õ„2:0şÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"
+(ô„2:0şÿÿÿÿÿÿÿÿ"=
+*http://schemas.android.com/apk/res/androidtextINFO(Ï‚„"S
+*http://schemas.android.com/apk/res/android	textColor#000000"
+(˜„2:P€€€ø"L
+*http://schemas.android.com/apk/res/androidtextSize40dp"
+(•„2:hP"L
+*http://schemas.android.com/apk/res/android	textStylebold"
+(—„2:8
+*	
+.

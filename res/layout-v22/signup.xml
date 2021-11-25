@@ -1,0 +1,182 @@
+
+íN
+9
+android*http://schemas.android.com/apk/res/android
+2
+app'http://schemas.android.com/apk/res-autoLinearLayout"T
+*http://schemas.android.com/apk/res/android
+background#243591"(Ô„2:P‘ëù"L
+*http://schemas.android.com/apk/res/androidgravitycenter"(¯„2:8"a
+*http://schemas.android.com/apk/res/androidlayout_heightmatch_parent"(õ„2:0ÿÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"R
+*http://schemas.android.com/apk/res/androidorientationvertical"(Ä„2:0"U
+*http://schemas.android.com/apk/res/androidpaddingHorizontal30dp"(½Š„2:h<"O
+*http://schemas.android.com/apk/res/androidpaddingLeft30dp"(Ö„2:h<"P
+*http://schemas.android.com/apk/res/androidpaddingRight30dp"(Ø„2:h<*
+
+    
+%*‹
+‚TextView"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"(õ„2:0şÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"(ô„2:0şÿÿÿÿÿÿÿÿ"@
+*http://schemas.android.com/apk/res/androidtextSIGN UP(Ï‚„"S
+*http://schemas.android.com/apk/res/android	textColor#ffffff"(˜„2:Pÿÿÿÿ"L
+*http://schemas.android.com/apk/res/androidtextSize40dp"(•„2:hP"L
+*http://schemas.android.com/apk/res/android	textStylebold"(—„2:8*
+
+    !*õ
+ìRelativeLayout"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"(õ„2:0şÿÿÿÿÿÿÿÿ"T
+*http://schemas.android.com/apk/res/androidlayout_marginTop40dp"(ø„2:hP"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ*
+
+
+        (*Ê
+ÁEditText"„
+*http://schemas.android.com/apk/res/android
+background@drawable/rectangular_field"(Ô„2$
+"­œødrawable/rectangular_field"L
+*http://schemas.android.com/apk/res/androidhintEnter your email...(Ğ‚„"Y
+*http://schemas.android.com/apk/res/androidid
+@+id/email"(Ğ„2
+ª øid/email"X
+*http://schemas.android.com/apk/res/android	inputTypetextEmailAddress"( „„2:8!"R
+*http://schemas.android.com/apk/res/androidlayout_height65dp"(õ„2:h‚"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"O
+*http://schemas.android.com/apk/res/androidpaddingLeft60dp"(Ö„2:hx"S
+*http://schemas.android.com/apk/res/androidpaddingVertical15dp"(¾Š„2:h"N
+*http://schemas.android.com/apk/res/android
+paddingTop15dp"(×„2:h"Q
+*http://schemas.android.com/apk/res/androidpaddingBottom15dp"(Ù„2:h"S
+*http://schemas.android.com/apk/res/android	textColor#000000"(˜„2:P€€€ø"W
+*http://schemas.android.com/apk/res/androidtextColorHint#A8A4A4"(š„2:P¤É¢ı*	
+        #**»
+²	ImageView"t
+*http://schemas.android.com/apk/res/android
+background@drawable/emaillogo"$(Ô„2
+€œødrawable/emaillogo"Y
+*http://schemas.android.com/apk/res/androidlayout_alignParentLefttrue"$(‹ƒ„2:@"X
+*http://schemas.android.com/apk/res/androidlayout_centerInParenttrue"$(ƒ„2:@"Q
+*http://schemas.android.com/apk/res/androidlayout_height35dp"$(õ„2:hF"U
+*http://schemas.android.com/apk/res/androidlayout_marginLeft10dp"$(÷„2:h"P
+*http://schemas.android.com/apk/res/androidlayout_width35dp"$(ô„2:hF$*
+    *2*
+
+    +*ƒ
+úRelativeLayout"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"-(õ„2:0şÿÿÿÿÿÿÿÿ"T
+*http://schemas.android.com/apk/res/androidlayout_marginTop40dp"-(ø„2:hP"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"-(ô„2:0ÿÿÿÿÿÿÿÿÿ*
+
+
+        0(*Ò
+ÉEditText"„
+*http://schemas.android.com/apk/res/android
+background@drawable/rectangular_field"2(Ô„2$
+"­œødrawable/rectangular_field"O
+*http://schemas.android.com/apk/res/androidhintEnter your password...(Ğ‚„"a
+*http://schemas.android.com/apk/res/androidid@+id/password1"2(Ğ„2
+·‚ øid/password1"U
+*http://schemas.android.com/apk/res/android	inputTypetextPassword"2( „„2:8"R
+*http://schemas.android.com/apk/res/androidlayout_height65dp"2(õ„2:h‚"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"2(ô„2:0ÿÿÿÿÿÿÿÿÿ"O
+*http://schemas.android.com/apk/res/androidpaddingLeft60dp"2(Ö„2:hx"S
+*http://schemas.android.com/apk/res/androidpaddingVertical15dp"2(¾Š„2:h"N
+*http://schemas.android.com/apk/res/android
+paddingTop15dp"2(×„2:h"Q
+*http://schemas.android.com/apk/res/androidpaddingBottom15dp"2(Ù„2:h"S
+*http://schemas.android.com/apk/res/android	textColor#000000"2(˜„2:P€€€ø"W
+*http://schemas.android.com/apk/res/androidtextColorHint#A8A4A4"2(š„2:P¤É¢ı2*	
+        <**Á
+¸	ImageView"z
+*http://schemas.android.com/apk/res/android
+background@drawable/passwordlogo"=(Ô„2
+¬œødrawable/passwordlogo"Y
+*http://schemas.android.com/apk/res/androidlayout_alignParentLefttrue"=(‹ƒ„2:@"X
+*http://schemas.android.com/apk/res/androidlayout_centerInParenttrue"=(ƒ„2:@"Q
+*http://schemas.android.com/apk/res/androidlayout_height35dp"=(õ„2:hF"U
+*http://schemas.android.com/apk/res/androidlayout_marginLeft10dp"=(÷„2:h"P
+*http://schemas.android.com/apk/res/androidlayout_width35dp"=(ô„2:hF=*
+    C2-*
+
+    D*…
+üRelativeLayout"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"F(õ„2:0şÿÿÿÿÿÿÿÿ"T
+*http://schemas.android.com/apk/res/androidlayout_marginTop40dp"F(ø„2:hP"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"F(ô„2:0ÿÿÿÿÿÿÿÿÿ*
+
+
+        I(*Ô
+ËEditText"„
+*http://schemas.android.com/apk/res/android
+background@drawable/rectangular_field"K(Ô„2$
+"­œødrawable/rectangular_field"Q
+*http://schemas.android.com/apk/res/androidhintConfirm your password...(Ğ‚„"a
+*http://schemas.android.com/apk/res/androidid@+id/password2"K(Ğ„2
+¸‚ øid/password2"U
+*http://schemas.android.com/apk/res/android	inputTypetextPassword"K( „„2:8"R
+*http://schemas.android.com/apk/res/androidlayout_height65dp"K(õ„2:h‚"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"K(ô„2:0ÿÿÿÿÿÿÿÿÿ"O
+*http://schemas.android.com/apk/res/androidpaddingLeft60dp"K(Ö„2:hx"S
+*http://schemas.android.com/apk/res/androidpaddingVertical15dp"K(¾Š„2:h"N
+*http://schemas.android.com/apk/res/android
+paddingTop15dp"K(×„2:h"Q
+*http://schemas.android.com/apk/res/androidpaddingBottom15dp"K(Ù„2:h"S
+*http://schemas.android.com/apk/res/android	textColor#000000"K(˜„2:P€€€ø"W
+*http://schemas.android.com/apk/res/androidtextColorHint#A8A4A4"K(š„2:P¤É¢ıK*	
+        U**Á
+¸	ImageView"z
+*http://schemas.android.com/apk/res/android
+background@drawable/passwordlogo"V(Ô„2
+¬œødrawable/passwordlogo"Y
+*http://schemas.android.com/apk/res/androidlayout_alignParentLefttrue"V(‹ƒ„2:@"X
+*http://schemas.android.com/apk/res/androidlayout_centerInParenttrue"V(ƒ„2:@"Q
+*http://schemas.android.com/apk/res/androidlayout_height35dp"V(õ„2:hF"U
+*http://schemas.android.com/apk/res/androidlayout_marginLeft10dp"V(÷„2:h"P
+*http://schemas.android.com/apk/res/androidlayout_width35dp"V(ô„2:hFV*
+    \2F*
+
+    ]*¼
+³Button"X
+*http://schemas.android.com/apk/res/androidbackgroundTint#459A48"_(ëˆ„2:PÈ´–ú"_
+*http://schemas.android.com/apk/res/androidid@+id/register"_(Ğ„2
+É‚ øid/register"Q
+*http://schemas.android.com/apk/res/androidlayout_height60dp"_(õ„2:hx"T
+*http://schemas.android.com/apk/res/androidlayout_marginTop30dp"_(ø„2:h<"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"_(ô„2:0ÿÿÿÿÿÿÿÿÿ"@
+*http://schemas.android.com/apk/res/androidtextSign Up(Ï‚„"S
+*http://schemas.android.com/apk/res/android	textColor#ffffff"_(˜„2:Pÿÿÿÿ"L
+*http://schemas.android.com/apk/res/androidtextSize25dp"_(•„2:h2_*
+
+    g**ö
+íLinearLayout"L
+*http://schemas.android.com/apk/res/androidgravitycenter"i(¯„2:8"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"i(õ„2:0şÿÿÿÿÿÿÿÿ"W
+*http://schemas.android.com/apk/res/androidlayout_marginBottom40dp"i(ú„2:hP"T
+*http://schemas.android.com/apk/res/androidlayout_marginTop20dp"i(ø„2:h("`
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"i(ô„2:0şÿÿÿÿÿÿÿÿ"T
+*http://schemas.android.com/apk/res/androidorientation
+horizontal"i(Ä„2:0 *	
+        o+*È
+¿TextView"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"p(õ„2:0şÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"p(ô„2:0şÿÿÿÿÿÿÿÿ"K
+*http://schemas.android.com/apk/res/androidtextYou haven account?(Ï‚„"S
+*http://schemas.android.com/apk/res/android	textColor#ffffff"p(˜„2:Pÿÿÿÿ"L
+*http://schemas.android.com/apk/res/androidtextSize18dp"p(•„2:h$p*
+
+
+        u%*Ã
+ºTextView"_
+*http://schemas.android.com/apk/res/androidid@+id/signInTv"w(Ğ„2
+ì‚ øid/signInTv"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"w(õ„2:0şÿÿÿÿÿÿÿÿ"U
+*http://schemas.android.com/apk/res/androidlayout_marginLeft10dp"w(÷„2:h"`
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"w(ô„2:0şÿÿÿÿÿÿÿÿ"@
+*http://schemas.android.com/apk/res/androidtextSign In(Ï‚„"S
+*http://schemas.android.com/apk/res/android	textColor#ffffff"w(˜„2:Pÿÿÿÿ"L
+*http://schemas.android.com/apk/res/androidtextSize20dp"w(•„2:h("L
+*http://schemas.android.com/apk/res/android	textStylebold"w(—„2:8w*
+    %i*
+
+€

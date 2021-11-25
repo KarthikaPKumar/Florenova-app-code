@@ -1,0 +1,48 @@
+
+Ñ
+9
+android*http://schemas.android.com/apk/res/androidLinearLayout"L
+*http://schemas.android.com/apk/res/androidgravitycenter"(¯„2:8"a
+*http://schemas.android.com/apk/res/androidlayout_heightmatch_parent"(õ„2:0ÿÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"R
+*http://schemas.android.com/apk/res/androidorientationvertical"(Ä„2:0*
+    *Ê
+ÁTextView"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"(õ„2:0şÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"(ô„2:0şÿÿÿÿÿÿÿÿ"M
+*http://schemas.android.com/apk/res/androidtextThis is my dashboard(Ï‚„"S
+*http://schemas.android.com/apk/res/android	textColor#D31919"(˜„2:P™²Ìş"L
+*http://schemas.android.com/apk/res/androidtextSize20dp"(•„2:h(*
+
+    !*Å
+¼Button"W
+*http://schemas.android.com/apk/res/androidid	@+id/home"(Ğ„2
+Ë øid/home"Q
+*http://schemas.android.com/apk/res/androidlayout_height60dp"(õ„2:hx"T
+*http://schemas.android.com/apk/res/androidlayout_marginTop20dp"(ø„2:h("R
+*http://schemas.android.com/apk/res/androidlayout_width200dp"(ô„2:h"@
+*http://schemas.android.com/apk/res/androidtextPROFILE(Ï‚„"L
+*http://schemas.android.com/apk/res/androidtextSize20dp"(•„2:h("L
+*http://schemas.android.com/apk/res/android	textStylebold"(—„2:8*
+
+    )*Â
+¹Button"W
+*http://schemas.android.com/apk/res/androidid	@+id/info"(Ğ„2
+Õ øid/info"Q
+*http://schemas.android.com/apk/res/androidlayout_height60dp"(õ„2:hx"T
+*http://schemas.android.com/apk/res/androidlayout_marginTop20dp"(ø„2:h("R
+*http://schemas.android.com/apk/res/androidlayout_width200dp"(ô„2:h"=
+*http://schemas.android.com/apk/res/androidtextINFO(Ï‚„"L
+*http://schemas.android.com/apk/res/androidtextSize20dp"(•„2:h("L
+*http://schemas.android.com/apk/res/android	textStylebold"(—„2:8*
+
+    )*ú
+ñButton"[
+*http://schemas.android.com/apk/res/androidid@+id/logout" (Ğ„2
+é ø	id/logout"Q
+*http://schemas.android.com/apk/res/androidlayout_height60dp" (õ„2:hx"T
+*http://schemas.android.com/apk/res/androidlayout_marginTop20dp" (ø„2:h("R
+*http://schemas.android.com/apk/res/androidlayout_width200dp" (ô„2:h"?
+*http://schemas.android.com/apk/res/androidtextLogout(Ï‚„"L
+*http://schemas.android.com/apk/res/androidtextSize20dp" (•„2:h( *	
+&!
